@@ -1,0 +1,4 @@
+NULLSND RCDATA rsrc/null.mp3
+LOGO BITMAP rsrc/gfx/sizlogo.bmp
+MUSIC RCDATA rsrc/about/about.xm
+BMPFONT BITMAP rsrc/about/gfx/font.bmp
